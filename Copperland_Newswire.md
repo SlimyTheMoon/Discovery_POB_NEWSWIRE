@@ -49,6 +49,8 @@
 ## security
 - [DSE SECURITY BRIEF | warn] Randomized cargo inspections continue at local trade lanes.
 - [LANE PATROL REPORT | lore] Escort wing begins a routine perimeter sweep.
+- [DSE SECURITY BRIEF | lore] All non essentials personel got to move to civilian quarters.
+- [DSE SECURITY BRIEF | lore] All civilians in the shipyard are to be arrested. Use of lethal force is advised.
 
 ## operations
 - [COPPERLAND DOCKS | lore] Pier two opens for the next bulk freight window.
