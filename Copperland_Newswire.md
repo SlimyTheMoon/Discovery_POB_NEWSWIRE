@@ -47,11 +47,11 @@
 - [FREEPORT WIRE | remote] Independent haulers report steady contract flow out of Coronado.
 
 ## security
-- [DSE SECURITY BRIEF I | warn] Randomized cargo inspections continue at local trade lanes.
+- [DSE SECURITY BRIEF | warn] Randomized cargo inspections continue at local trade lanes.
 - [LANE PATROL REPORT | lore] Escort wing begins a routine perimeter sweep.
-- [DSE SECURITY BRIEF II | lore] All non essentials personel got to move to civilian quarters.
-- [DSE SECURITY BRIEF III | lore] All civilians in the shipyard are to be arrested. Use of lethal force is advised.
-- [DSE SECURITY BRIEF IV | lore] Private military contractors have been stationed on Copperland to ensure operational security.
+- [DSE SECURITY BRIEF | warn] All non essentials personel got to move to civilian quarters.
+- [DSE SECURITY BRIEF | red] All civilians in the shipyard are to be arrested. Use of lethal force is advised.
+- [DSE SECURITY BRIEF | warn] Private military contractors have been stationed on Copperland to ensure operational security.
 
 ## operations
 - [COPPERLAND DOCKS | lore] Pier two opens for the next bulk freight window.
