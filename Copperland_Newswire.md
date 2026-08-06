@@ -51,6 +51,7 @@
 - [LANE PATROL REPORT | lore] Escort wing begins a routine perimeter sweep.
 - [DSE SECURITY BRIEF | lore] All non essentials personel got to move to civilian quarters.
 - [DSE SECURITY BRIEF | lore] All civilians in the shipyard are to be arrested. Use of lethal force is advised.
+- [DSE SECURITY BRIEF | lore] Private military contractors have been stationed to ensure operational security.
 
 ## operations
 - [COPPERLAND DOCKS | lore] Pier two opens for the next bulk freight window.
